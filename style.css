@@ -1,0 +1,41 @@
+* {
+    background-color: rgb(250, 243, 234);
+}
+
+.container {
+    font-size: 30px;
+    margin-left: 10px;
+    line-height: 50px;
+}
+
+#my-name > a {
+    color: salmon;
+    text-decoration: none;
+}
+
+#my-posts > a {
+    color: salmon;
+    text-decoration: none;
+}
+
+#my-github > a {
+    color: salmon;
+    text-decoration: none;
+}
+
+#me-img {
+    height: 500px;
+    width: auto;
+}
+
+#my-name > a:hover {
+    text-decoration: underline;
+}
+
+#my-posts > a:hover {
+    text-decoration: underline;
+}
+
+#my-github > a:hover {
+    text-decoration: underline;
+}
