@@ -1,10 +1,10 @@
 * {
-    background-color: rgb(250, 243, 234);
+    background-color: rgb(67, 53, 68);
 }
 
 .container {
-    font-size: 30px;
-    margin-left: 10px;
+    font-size: 40px;
+    margin-left: 100px;
     line-height: 50px;
 }
 
@@ -23,10 +23,17 @@
     text-decoration: none;
 }
 
-#me-img {
-    height: 500px;
-    width: auto;
+#myimg{
+height: 500;
+width: auto;
 }
+
+
+#mygif{
+    height: 500;
+    width: auto;
+    }
+    
 
 #my-name > a:hover {
     text-decoration: underline;
