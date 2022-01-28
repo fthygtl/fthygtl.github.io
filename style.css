@@ -22,7 +22,7 @@
     color: salmon;
     text-decoration: none;
 }
-#another-page{
+#another-page > a{
      color: salmon;
     text-decoration: none;
 }
