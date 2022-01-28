@@ -26,6 +26,10 @@
      color: salmon;
     text-decoration: none;
 }
+#project2 > a{
+     color: salmon;
+    text-decoration: none;
+}
 
 #myimg{
 height: 500;
@@ -52,5 +56,9 @@ width: auto;
 }
 
 #another-page > a:hover {
+    text-decoration: underline;
+}
+
+#project2 > a:hover {
     text-decoration: underline;
 }
